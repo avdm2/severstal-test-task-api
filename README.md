@@ -5,7 +5,7 @@
 я решил выполнить задание на Java с использованием **Spring Boot**.
 - Задокументировать **API** не получилось по единственной причине - **Swagger** пока еще
 не поддерживает **Spring Boot 3**, поэтому для тестирования я использовал **Postman**. Описание 
-запросов представлено ниже, а сама коллекция **Postman** лежит [тут]().
+запросов представлено ниже, а сама коллекция **Postman** лежит [тут](https://github.com/avdm2/severstal-test-task-api/blob/master/%5B%234%5D%20Severstal%20REST%20API.postman_collection.json).
 
 ## Стек
 - Язык: `Java`
@@ -14,6 +14,7 @@
 - API-requests: `Postman`
 
 ## Docker
+- Dockerfile: [тут](https://github.com/avdm2/severstal-test-task-api/blob/master/Dockerfile)
 - Сборка: **docker build -t severstal-api .**
 - Запуск: **docker run -p 8081:8081 severstal-api**
 
