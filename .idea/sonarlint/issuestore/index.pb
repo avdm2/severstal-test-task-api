@@ -1,0 +1,23 @@
+
+K
+severstal-test-task-api.iml,b\8\b860f91927f206d93cbab23520f774ea15ac7944
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+|
+Lsrc/main/java/com/severstal/task/api/domain/repositories/NoteRepository.java,b\7\b745a30a32d9999c7ac6f588f576c100ba820432
+u
+Esrc/main/java/com/severstal/task/api/config/SwaggerConfiguration.java,7\8\78857345dbbb43fed4bb8fcdd9203e6e91b138ce
+l
+<src/main/java/com/severstal/task/api/domain/dto/NoteDto.java,9\b\9b1e9389de1193aa67add8cd1b322de80e04cd62
+n
+>src/main/java/com/severstal/task/api/domain/entities/Note.java,3\4\34b2b775b257a3d454d342f8b4a44c243d33b174
+i
+9src/main/java/com/severstal/task/api/app/Application.java,3\7\37bb811b4558a4a04dfec9cbd6074e21ab1bfd02
+n
+>src/main/java/com/severstal/task/api/services/NoteService.java,1\5\155258dae6d2537acae660999497b4f4117bc881
+t
+Dsrc/main/java/com/severstal/task/api/controllers/NoteController.java,7\2\72dd7fd7f442ff8be739e78dd1af21a582b6c40c
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+q
+Asrc/main/java/com/severstal/task/api/config/JpaConfiguration.java,3\8\389806f1cb2d6607f8cb7f0e3585f64f142da62d
